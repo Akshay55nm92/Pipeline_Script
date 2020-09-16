@@ -1,2 +1,3 @@
+#!/bin/sh
 
-sh 'echo "Building the Project from Github File"'
+echo "Building the Project from Github File"
