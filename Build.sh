@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Building the Project from Github File"
+sh 'echo "Building the Project from Github File"'
